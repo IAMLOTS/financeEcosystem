@@ -7,6 +7,7 @@ The Financial Ecosystem project seeks to streamline financial transactions and s
 Features
 - Unified Wallet System: Access all financial services and transactions through a single wallet interface.
 - E-commerce Integration: Seamlessly purchase goods and services from partnered e-commerce platforms using the wallet.
+- eliminated boundaries. transact anywhere in Southern African.
 - Public Transportation Payments: Pay for public transportation fares conveniently using the wallet's digital payment capabilities.
 - QR Scan to pay functionalities and copy paste payments.
 - fundable with just mobile money (Orange money, MoMo) bank cards and other flexible options. 
