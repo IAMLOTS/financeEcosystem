@@ -1,10 +1,13 @@
 Financial Ecosystem
+
 Welcome to the Financial Ecosystem project! This project aims to create a comprehensive platform that integrates various financial services such as e-commerce, public transportation payments, and retail shopping, all centered around a unified wallet system.
 
 Overview
+
 The Financial Ecosystem project seeks to streamline financial transactions and services by providing users with a convenient and versatile platform. By leveraging the power of blockchain technology and its native currency, users can enjoy seamless transactions, enhanced security, and greater accessibility across different domains of their financial lives.
 
 Features
+
 - Unified Wallet System: Access all financial services and transactions through a single wallet interface.
 - E-commerce Integration: Seamlessly purchase goods and services from partnered e-commerce platforms using the wallet.
 - eliminated boundaries. transact anywhere in Southern African.
@@ -17,4 +20,5 @@ Features
 - Multi-Platform Support: Enjoy access to the Financial Ecosystem platform across various platforms, including web, iOS, and Android devices.
 
 Usage
+
 To get started with the Financial Ecosystem platform, simply download the application from the respective app store or visit the website. Create an account securely and start exploring the different financial services and features available.
