@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "hello_world_backend": {
+      "main": "src/financeEcosystem/homeworkDiary.mo",
+      "type": "motoko"
+    }
+
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
