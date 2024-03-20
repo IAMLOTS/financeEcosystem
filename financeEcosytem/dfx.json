@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "hello_world_backend": {
-      "main": "src/financeEcosystem/homeworkDiary.mo",
+    "financeEcosystemBackEnd": {
+      "main": "src/financeEcosystemBackEnd/main.mo",
       "type": "motoko"
     }
 
